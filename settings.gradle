@@ -1,1 +1,1 @@
-include ':app', ':izengine'
+include ':izengine'
